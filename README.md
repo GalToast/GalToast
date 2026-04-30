@@ -16,6 +16,15 @@ My strongest work sits at the intersection of automation, retrieval, browser orc
 | [semantic-demo](https://github.com/GalToast/semantic-demo) | Three.js vector-space visualization and browser-based semantic exploration | `index.html`, `semantic-demo.css`, `backend/` |
 | [opencode-fork](https://github.com/GalToast/opencode-fork) | Agent workflow customization: skill system, launcher work, semantic retrieval notes, and browser resource governance | `README.md`, `opencode-skills/`, `docs/` |
 
+## Client Delivery Proof
+
+These repos show the same AI-first operating model applied to real business delivery:
+
+| Project | What it shows | Good first click |
+| --- | --- | --- |
+| [mccullough-digital](https://github.com/GalToast/mccullough-digital) | AI-first client delivery platform with custom WordPress blocks, lead capture, QA, analytics, and Onmark case-study proof points | `README.md`, `docs/onmark-case-study.md`, `functions.php` |
+| [mccullough-search](https://github.com/GalToast/mccullough-search) | Deterministic local-business website discovery, scoring, verification, and review handoff for the lead intelligence workflow | `README.md`, `search-lead.js`, `test-harness.js` |
+
 ## What I Optimize For
 
 - Evidence before claims: the best parts of these repos keep negative results visible.
