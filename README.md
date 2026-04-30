@@ -12,6 +12,7 @@ My strongest work sits at the intersection of automation, retrieval, browser orc
 | [trading-bots](https://github.com/GalToast/trading-bots) | State-aware research and execution infrastructure with risk controls, telemetry, proof boards, and falsification surfaces | `README.md`, `docs/experiment-protocol.md`, `reports/edge_registry.md` |
 | [website-audit-engine](https://github.com/GalToast/website-audit-engine) | Playwright-based website security and performance auditing with confidence-tiered findings and batch automation | `README.md`, `audit-lead.js`, `audit-lead.security.test.js` |
 | [leadops](https://github.com/GalToast/leadops) | AI-assisted lead intelligence pipeline with SQLite, vector retrieval, Streamlit UIs, mailbox parsing, and queue generation | `README.md`, `app.py`, `leadops_retrieve.py` |
+| [permit-intelligence-dashboard](https://github.com/GalToast/permit-intelligence-dashboard) | Public-record permit scraping, parcel enrichment, opportunity scoring, and static dashboard workflow | `README.md`, `src/pipeline.py`, `docs/portfolio-case-study.md` |
 | [semantic-demo](https://github.com/GalToast/semantic-demo) | Three.js vector-space visualization and browser-based semantic exploration | `index.html`, `semantic-demo.css`, `backend/` |
 | [opencode-fork](https://github.com/GalToast/opencode-fork) | Agent workflow customization: skill system, launcher work, semantic retrieval notes, and browser resource governance | `README.md`, `opencode-skills/`, `docs/` |
 
