@@ -22,7 +22,7 @@ These repos show the same AI-first operating model applied to real business deli
 
 | Project | What it shows | Good first click |
 | --- | --- | --- |
-| [mccullough-digital](https://github.com/GalToast/mccullough-digital) | AI-first client delivery platform with custom WordPress blocks, lead capture, QA, analytics, and Onmark case-study proof points | `README.md`, `docs/onmark-case-study.md`, `functions.php` |
+| [mccullough-digital](https://github.com/GalToast/mccullough-digital) | AI-first client delivery platform with custom WordPress blocks, lead capture, QA, analytics, and ARES/Onmark proof points | `README.md`, `docs/onmark-case-study.md`, `functions.php` |
 | [mccullough-search](https://github.com/GalToast/mccullough-search) | Deterministic local-business website discovery, scoring, verification, and review handoff for the lead intelligence workflow | `README.md`, `search-lead.js`, `test-harness.js` |
 
 ## What I Optimize For
