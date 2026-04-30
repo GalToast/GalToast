@@ -8,6 +8,7 @@ My strongest work sits at the intersection of automation, retrieval, browser orc
 
 | Project | What it shows | Good first click |
 | --- | --- | --- |
+| [ai-operator-stack](https://github.com/GalToast/ai-operator-stack) | How I use AI agents, MCP tools, browser automation, memory, skills, and verification loops to build real systems | `README.md`, `docs/operating-model.md`, `docs/browser-resource-governance.md` |
 | [trading-bots](https://github.com/GalToast/trading-bots) | State-aware research and execution infrastructure with risk controls, telemetry, proof boards, and falsification surfaces | `README.md`, `docs/experiment-protocol.md`, `reports/edge_registry.md` |
 | [website-audit-engine](https://github.com/GalToast/website-audit-engine) | Playwright-based website security and performance auditing with confidence-tiered findings and batch automation | `README.md`, `audit-lead.js`, `audit-lead.security.test.js` |
 | [leadops](https://github.com/GalToast/leadops) | AI-assisted lead intelligence pipeline with SQLite, vector retrieval, Streamlit UIs, mailbox parsing, and queue generation | `README.md`, `app.py`, `leadops_retrieve.py` |
