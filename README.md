@@ -2,6 +2,8 @@
 
 I build AI-assisted systems that turn noisy real-world signals into bounded operational decisions.
 
+Current focal point: [OpenCodex](https://github.com/GalToast/opencode-fork), a systems-oriented OpenCode fork with task DAGs, semantic retrieval, TUI proof artifacts, and a stateful agent workbench runtime.
+
 My strongest work sits at the intersection of automation, retrieval, browser orchestration, data pipelines, and evidence-driven product engineering. I care about systems that can be inspected: clear runtime state, explicit failure criteria, preserved negative evidence, and tooling that helps a human operator stay oriented.
 
 ## Start Here
@@ -13,8 +15,8 @@ My strongest work sits at the intersection of automation, retrieval, browser orc
 | [website-audit-engine](https://github.com/GalToast/website-audit-engine) | Playwright-based website security and performance auditing with confidence-tiered findings and batch automation | `README.md`, `audit-lead.js`, `audit-lead.security.test.js` |
 | [leadops](https://github.com/GalToast/leadops) | AI-assisted lead intelligence pipeline with SQLite, vector retrieval, Streamlit UIs, mailbox parsing, and queue generation | `README.md`, `app.py`, `leadops_retrieve.py` |
 | [permit-intelligence-dashboard](https://github.com/GalToast/permit-intelligence-dashboard) | Public-record permit scraping, parcel enrichment, opportunity scoring, and static dashboard workflow | `README.md`, `src/pipeline.py`, `docs/portfolio-case-study.md` |
+| [opencode-fork](https://github.com/GalToast/opencode-fork) | OpenCodex: systems-oriented AI coding workbench fork with task DAGs, semantic retrieval, TUI proofs, and stateful agent runtime | `README.md`, `docs/recruiter-quickstart.md`, `docs/opencodex-runtime-surface.md` |
 | [semantic-demo](https://github.com/GalToast/semantic-demo) | Three.js vector-space visualization and browser-based semantic exploration | `index.html`, `semantic-demo.css`, `backend/` |
-| [opencode-fork](https://github.com/GalToast/opencode-fork) | Agent workflow customization: skill system, launcher work, semantic retrieval notes, and browser resource governance | `README.md`, `opencode-skills/`, `docs/` |
 
 ## Client Delivery Proof
 
