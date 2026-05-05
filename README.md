@@ -29,8 +29,6 @@ These are real client outcomes. `mccullough.digital` and `mccullough.cloud` are 
 | [OnMark](https://mccullough.digital/case-study/onmark-houston-digital-transformation/) | Built the web presence, lead capture, attribution, and visibility system for a Houston solid-surface contractor, with organic/AI visibility and paid-launch metrics documented in the public case study | [case study](https://mccullough.digital/case-study/onmark-houston-digital-transformation/), [repo proof](https://github.com/GalToast/mccullough-digital/blob/main/docs/onmark-case-study.md) |
 | [ARESbuild Construction](https://mccullough.digital/case-study/ares-construction-launch-build/) | Built the construction website presence, project/gallery structure, trust proof, and handoff workflow behind the ARES launch-build case study | [case study](https://mccullough.digital/case-study/ares-construction-launch-build/), [delivery repo](https://github.com/GalToast/mccullough-digital) |
 
-Supporting delivery repos: [mccullough-digital](https://github.com/GalToast/mccullough-digital) contains the WordPress/client-delivery platform behind those launches, and [mccullough-search](https://github.com/GalToast/mccullough-search) contains the local-business discovery and review workflow that supports the pipeline.
-
 ## What I Optimize For
 
 - Evidence before claims: the best parts of these repos keep negative results visible.
