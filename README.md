@@ -12,13 +12,13 @@ My strongest work sits at the intersection of automation, retrieval, browser orc
 
 | Project | What it shows | Good first click |
 | --- | --- | --- |
-| [opencode-fork](https://github.com/GalToast/opencode-fork) | OpenCodex: systems-oriented AI coding workbench fork with task DAGs, semantic retrieval, TUI proofs, and stateful agent runtime | `docs/recruiter-quickstart.md`, `docs/opencodex-runtime-surface.md`, `README.md` |
+| [opencode-fork](https://github.com/GalToast/opencode-fork) | OpenCodex: OpenCode fork adding task DAGs, semantic retrieval, TUI proofs, and a stateful agent workbench runtime | `docs/recruiter-quickstart.md`, `docs/opencodex-runtime-surface.md`, `README.md` |
 | [semantic-demo](https://github.com/GalToast/semantic-demo) | Semantic search over 8,406 business records with map anchors, visual neighborhoods, and retrieval behavior you can inspect in the browser | `README.md`, `index.html`, `data.dat` |
-| [ai-operator-stack](https://github.com/GalToast/ai-operator-stack) | How I use AI agents, MCP tools, browser automation, memory, skills, and verification loops to build real systems | `README.md`, `docs/operating-model.md`, `docs/browser-resource-governance.md` |
-| [leadops](https://github.com/GalToast/leadops) | AI-assisted lead intelligence pipeline with SQLite, vector retrieval, Streamlit UIs, mailbox parsing, and queue generation | `README.md`, `app.py`, `leadops_retrieve.py` |
+| [ai-operator-stack](https://github.com/GalToast/ai-operator-stack) | Human-in-the-loop operating model for using AI agents, MCP tools, browser automation, memory, skills, and verification loops safely | `README.md`, `docs/operating-model.md`, `docs/agent-safety-model.md` |
+| [leadops](https://github.com/GalToast/leadops) | Lead intelligence pipeline with SQLite, vector retrieval, Streamlit UIs, mailbox parsing, data boundaries, and review queues | `README.md`, `app.py`, `leadops_retrieve.py` |
 | [permit-intelligence-dashboard](https://github.com/GalToast/permit-intelligence-dashboard) | Public-record permit analytics with parcel enrichment, opportunity scoring, exports, and a static dashboard for human review | `README.md`, `src/pipeline.py`, `docs/portfolio-case-study.md` |
-| [website-audit-engine](https://github.com/GalToast/website-audit-engine) | Playwright-based website security and performance auditing with confidence-tiered findings and batch automation | `README.md`, `audit-lead.js`, `audit-lead.security.test.js` |
-| [trading-bots](https://github.com/GalToast/trading-bots) | State-aware research and execution infrastructure with risk controls, telemetry, proof boards, and falsification surfaces | `README.md`, `docs/experiment-protocol.md`, `docs/evidence/edge_registry.md` |
+| [website-audit-engine](https://github.com/GalToast/website-audit-engine) | Authorized website security and performance auditing with confidence-tiered findings, Playwright evidence capture, and batch automation | `README.md`, `docs/authorization-model.md`, `audit-lead.security.test.js` |
+| [trading-bots](https://github.com/GalToast/trading-bots) | Paper/experimental quantitative research infrastructure with risk controls, telemetry, proof boards, and falsification surfaces | `README.md`, `docs/experiment-protocol.md`, `docs/evidence/edge_registry.md` |
 
 ## Client Work
 
