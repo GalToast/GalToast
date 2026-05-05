@@ -24,12 +24,12 @@ My strongest work sits at the intersection of automation, retrieval, browser orc
 
 These are real client outcomes. `mccullough.digital` and `mccullough.cloud` are my owned delivery surfaces; the client proof is the web presence and growth infrastructure built for OnMark and ARESbuild Construction.
 
-| Project | What it shows | Good first click |
+| Client | What I built | Proof |
 | --- | --- | --- |
 | [OnMark](https://mccullough.digital/case-study/onmark-houston-digital-transformation/) | Built the web presence, lead capture, attribution, and visibility system for a Houston solid-surface contractor, with organic/AI visibility and paid-launch metrics documented in the public case study | [case study](https://mccullough.digital/case-study/onmark-houston-digital-transformation/), [repo proof](https://github.com/GalToast/mccullough-digital/blob/main/docs/onmark-case-study.md) |
 | [ARESbuild Construction](https://mccullough.digital/case-study/ares-construction-launch-build/) | Built the construction website presence, project/gallery structure, trust proof, and handoff workflow behind the ARES launch-build case study | [case study](https://mccullough.digital/case-study/ares-construction-launch-build/), [delivery repo](https://github.com/GalToast/mccullough-digital) |
-| [mccullough-digital](https://github.com/GalToast/mccullough-digital) | The owned WordPress delivery platform behind those client launches: custom blocks, lead capture, QA, analytics, case-study pages, and reusable client-delivery tooling | `README.md`, `functions.php`, `templates/` |
-| [mccullough-search](https://github.com/GalToast/mccullough-search) | Deterministic local-business website discovery, scoring, verification, and review handoff for the lead intelligence workflow | `README.md`, `search-lead.js`, `test-harness.js` |
+
+Supporting delivery repos: [mccullough-digital](https://github.com/GalToast/mccullough-digital) contains the WordPress/client-delivery platform behind those launches, and [mccullough-search](https://github.com/GalToast/mccullough-search) contains the local-business discovery and review workflow that supports the pipeline.
 
 ## What I Optimize For
 
