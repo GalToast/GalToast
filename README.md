@@ -33,6 +33,7 @@ These are real client outcomes. `mccullough.digital` and `mccullough.cloud` are 
 
 | Project | What it shows | Good first click |
 | --- | --- | --- |
+| [cloth-physics-banner](https://github.com/GalToast/cloth-physics-banner) | Interactive WebGL cloth banner with custom particle constraints, runtime texture generation, visual smoke checks, and a live GitHub Pages demo | [live demo](https://galtoast.github.io/cloth-physics-banner/), `README.md`, `src/main.js` |
 | [mccullough-search](https://github.com/GalToast/mccullough-search) | Deterministic local-business website discovery with SearXNG, scoring rules, first-party verification, GitHub Actions runs, and a review queue for ambiguous results | `README.md`, `search-lead.js`, `test-harness.js` |
 | [mccullough-digital](https://github.com/GalToast/mccullough-digital) | Owned WordPress/client-delivery platform behind the client launches: custom blocks, lead capture, QA, analytics, case-study pages, and reusable delivery tooling | `README.md`, `functions.php`, `templates/` |
 
