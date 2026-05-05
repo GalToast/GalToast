@@ -51,7 +51,7 @@ Python, JavaScript, TypeScript, PowerShell, Playwright, Streamlit, SQLite, Three
 
 The common thread in my work is decision systems under uncertainty:
 
-- In trading research, that means separating repayable displacement from toxic repricing.
+- In trading research, that means building paper-tested risk controls and backtest infrastructure around noisy market behavior.
 - In website auditing, it means separating verified user-facing issues from weak heuristics.
 - In lead intelligence, it means turning fragmented public and inbox data into reviewable next actions.
 - In agent tooling, it means letting multiple workers move quickly without colliding over shared tools.
