@@ -59,4 +59,5 @@ The common thread in my work is decision systems under uncertainty:
 ## Contact
 
 - Website: [mccullough.digital](https://mccullough.digital)
+- LinkedIn: [linkedin.com/in/fred-mccullough](https://www.linkedin.com/in/fred-mccullough-02981a38a/)
 - Location: Conroe, TX
