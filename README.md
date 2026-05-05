@@ -1,8 +1,10 @@
 # Fred McCullough
 
-I build AI-assisted systems that turn noisy real-world signals into bounded operational decisions.
+AI automation engineer specializing in retrieval-augmented systems, browser orchestration, and evidence-driven decision pipelines.
 
-Current focal point: [OpenCodex](https://github.com/GalToast/opencode-fork), a systems-oriented OpenCode fork with task DAGs, semantic retrieval, TUI proof artifacts, and a stateful agent workbench runtime.
+Fastest proof: [semantic-demo](https://github.com/GalToast/semantic-demo), a browser-based semantic search surface over 8,406 Montgomery County business records.
+
+Deepest systems work: [OpenCodex](https://github.com/GalToast/opencode-fork), a systems-oriented OpenCode fork with task DAGs, semantic retrieval, TUI proof artifacts, and a stateful agent workbench runtime.
 
 My strongest work sits at the intersection of automation, retrieval, browser orchestration, data pipelines, and evidence-driven product engineering. I care about systems that can be inspected: clear runtime state, explicit failure criteria, preserved negative evidence, and tooling that helps a human operator stay oriented.
 
@@ -10,15 +12,15 @@ My strongest work sits at the intersection of automation, retrieval, browser orc
 
 | Project | What it shows | Good first click |
 | --- | --- | --- |
+| [semantic-demo](https://github.com/GalToast/semantic-demo) | Semantic search over 8,406 business records with map anchors, visual neighborhoods, and retrieval behavior you can inspect in the browser | `README.md`, `index.html`, `data.dat` |
+| [opencode-fork](https://github.com/GalToast/opencode-fork) | OpenCodex: systems-oriented AI coding workbench fork with task DAGs, semantic retrieval, TUI proofs, and stateful agent runtime | `docs/recruiter-quickstart.md`, `docs/opencodex-runtime-surface.md`, `README.md` |
 | [ai-operator-stack](https://github.com/GalToast/ai-operator-stack) | How I use AI agents, MCP tools, browser automation, memory, skills, and verification loops to build real systems | `README.md`, `docs/operating-model.md`, `docs/browser-resource-governance.md` |
-| [trading-bots](https://github.com/GalToast/trading-bots) | State-aware research and execution infrastructure with risk controls, telemetry, proof boards, and falsification surfaces | `README.md`, `docs/experiment-protocol.md`, `reports/edge_registry.md` |
-| [website-audit-engine](https://github.com/GalToast/website-audit-engine) | Playwright-based website security and performance auditing with confidence-tiered findings and batch automation | `README.md`, `audit-lead.js`, `audit-lead.security.test.js` |
 | [leadops](https://github.com/GalToast/leadops) | AI-assisted lead intelligence pipeline with SQLite, vector retrieval, Streamlit UIs, mailbox parsing, and queue generation | `README.md`, `app.py`, `leadops_retrieve.py` |
 | [permit-intelligence-dashboard](https://github.com/GalToast/permit-intelligence-dashboard) | Public-record permit scraping, parcel enrichment, opportunity scoring, and static dashboard workflow | `README.md`, `src/pipeline.py`, `docs/portfolio-case-study.md` |
-| [opencode-fork](https://github.com/GalToast/opencode-fork) | OpenCodex: systems-oriented AI coding workbench fork with task DAGs, semantic retrieval, TUI proofs, and stateful agent runtime | `README.md`, `docs/recruiter-quickstart.md`, `docs/opencodex-runtime-surface.md` |
-| [semantic-demo](https://github.com/GalToast/semantic-demo) | Three.js vector-space visualization and browser-based semantic exploration | `index.html`, `semantic-demo.css`, `backend/` |
+| [website-audit-engine](https://github.com/GalToast/website-audit-engine) | Playwright-based website security and performance auditing with confidence-tiered findings and batch automation | `README.md`, `audit-lead.js`, `audit-lead.security.test.js` |
+| [trading-bots](https://github.com/GalToast/trading-bots) | State-aware research and execution infrastructure with risk controls, telemetry, proof boards, and falsification surfaces | `README.md`, `docs/experiment-protocol.md`, `reports/edge_registry.md` |
 
-## Client Delivery Proof
+## Client Work
 
 These repos show the same AI-first operating model applied to real business delivery:
 
